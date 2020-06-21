@@ -1,4 +1,4 @@
-# Cookiecutter for Kaggle Conda projects
+# Cookiecutter for Streamlit ML Conda projects
 
 This is a template cookiecutter project for bootstrapping your work on Kaggle competitions. It contains :
 
