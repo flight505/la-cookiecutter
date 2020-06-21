@@ -20,13 +20,12 @@ dependencies:
   - pip:
       - black
       - h2o
+      - streamlit
       - keras
       - lightgbm
       - missingno
       - nbdime
       - plotly
-      - altair vega_datasets
-      - pylint
+      - flake8
       - pyspark
       - tensorflow
-      - streamlit
