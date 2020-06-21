@@ -33,7 +33,7 @@ $ conda install cookiecutter
 ## Generate a new project
 
 In a folder where you want your project generated :
-`cookiecutter https://github.com/andfanilo/cookiecutter-kaggle.git`
+`cookiecutter https://github.com/flight505/le-cookiecutter`
 
 You can also clone the project in `<path/to/template>`,
 and from the folder where you want to generate your project, launch `cookiecutter <path/to/template>`
@@ -57,6 +57,8 @@ Complete the values for your project and voilà ! Then follow the `README` insid
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
 
 ## Credits
+
+This is a Fork from andfanilo, which was modified for Streamlit applications
 
 This project is heavily influenced by [drivendata's Data Science cookiecutter](https://github.com/drivendata/cookiecutter-data-science).
 
