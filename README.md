@@ -44,9 +44,11 @@ It will ask for the following values :
 full_name
 email
 project_name
+project_slug
 project_short_description
 version
 ```
+(project_slug is the name you will use to install your package elsewere using ```pip install your_package_name```)
 
 Complete the values for your project and voilà ! Then follow the `README` inside your new project for further installation.
 
