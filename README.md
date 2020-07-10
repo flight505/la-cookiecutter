@@ -33,7 +33,7 @@ $ conda install cookiecutter
 ## Generate a new project
 
 In a folder where you want your project generated :
-`cookiecutter https://github.com/flight505/le-cookiecutter`
+`cookiecutter https://github.com/flight505/la-cookiecutter`
 
 You can also clone the project in `<path/to/template>`,
 and from the folder where you want to generate your project, launch `cookiecutter <path/to/template>`
