@@ -11,8 +11,7 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - pandas-profiling
-  - path.py
+  - dataprep
   - python=3.8
   - scikit-learn
   - seaborn
@@ -29,3 +28,4 @@ dependencies:
       - flake8
       - pyspark
       - tensorflow
+      - path
