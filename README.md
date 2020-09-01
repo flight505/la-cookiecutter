@@ -5,7 +5,7 @@ This is a template cookiecutter project for bootstrapping your work on ML data s
 - a directory structure for sorting your notebooks, data, models, figures, tasks and source code to reuse in notebooks
 - a conda environment file with the basic python libraries and some extras :
   - numpy / pandas / scikit-learn / seaborn / statsmodels / plotly / jupyterlab classic Data Science stack
-  - [streamlit](https://streamlit.io/)(https://lightgbm.readthedocs.io/en/latest/) for building data apps
+  - [streamlit](https://streamlit.io/) for building and run top to bottom data apps
   - [pyspark](https://spark.apache.org/) and [h2o](https://www.h2o.ai/) for distributed processing
   - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) for generating HTML reports on pandas dataframes
   - [missingno](https://github.com/ResidentMario/missingno) for missing data analysis
